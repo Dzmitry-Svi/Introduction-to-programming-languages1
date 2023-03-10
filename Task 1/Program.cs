@@ -6,10 +6,11 @@ if (a > b)
 {
   Console.WriteLine("Большее число:a, меньшее число:b");
 }
-if (a < b)
+else
 {
   Console.WriteLine("Большее число:b, меньшее число:a");
 }
+
 
 
 
